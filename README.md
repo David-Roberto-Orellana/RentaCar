@@ -1,0 +1,2 @@
+# RentaCar
+La Renta de autos Renta Car esta tratando de implementar un sistema informático para poder manejar el registro de los clientes que realizan el alquiler del vehículo, como los vehículos, además de un control sobre sus empleados. Objetivo Administrar los servicios que presta el Renta Car además de brindar la información necesaria de los vehículos para su alquiler, tener un registro de los alquileres de los vehículos alquilados.
